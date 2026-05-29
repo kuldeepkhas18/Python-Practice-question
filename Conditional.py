@@ -120,22 +120,22 @@
    
 #10. Write a program to assign grades based on marks and display distinction for high scores. 
 
-hindi =int(input("hindi :"))
-eng=int(input("eng :"))
-math =int(input("math:"))
-science =int(input("science :"))
-com =int(input("com :"))
-sum=hindi+eng+math+science+com
-print (sum)
-per=sum/5
-print(per)
-if per>=90:
-    print("Grade: A+\n distinction ")
-elif per>=75:
-    print("Grade: B+")
-elif per>=50:
-    print("Grade: C+")
-elif per>=35:
-    print("Grade: D+")
-else:
-    print("fail")
+# hindi =int(input("hindi :"))
+# eng=int(input("eng :"))
+# math =int(input("math:"))
+# science =int(input("science :"))
+# com =int(input("com :"))
+# sum=hindi+eng+math+science+com
+# print (sum)
+# per=sum/5
+# print(per)
+# if per>=90:
+#     print("Grade: A+\n distinction ")
+# elif per>=75:
+#     print("Grade: B+")
+# elif per>=50:
+#     print("Grade: C+")
+# elif per>=35:
+#     print("Grade: D+")
+# else:
+#     print("fail")
