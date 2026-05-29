@@ -452,10 +452,10 @@
 # print(dict)
 
 #Write a program to create a student record using a dictionary (name, roll no, marks, branch)
-# dict={}
-# n=int(input("how many item do you want : ? "))
-# for i in range(n):
-#    key=input("enter your key :")
-#    values=input("enter your values :")
-#    dict[key]=values
-#    print(dict)
+dict={}
+n=int(input("how many item do you want : ? "))
+for i in range(n):
+   key=input("enter your key :")
+   values=input("enter your values :")
+   dict[key]=values
+print(dict)
